@@ -33,3 +33,16 @@ function toggleMenu() {
     showMenu = false;
   }
 }
+
+// Initialize and add the map
+function initMap() {
+  // Your location
+  // Centered map on location
+  const loc = { lat: 50.72168, lng: -1.87853 };
+  const map = new google.maps.Map(document.querySelector(".map"), {
+    zoom: 14,
+    center: loc
+  });
+  // The marker, positioned at location
+  const marker = new google.maps.Marker({ position: loc, map: map });
+}
