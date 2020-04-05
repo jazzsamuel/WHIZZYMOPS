@@ -54,7 +54,7 @@
     .menu-branding .portrait {
       width: 255px;
       height: 255px;
-      background: url("/dist/img/portrait.jpg");
+      background: url(https://github.com/jazzsamuel/WHIZZYMOPS/blob/master/dist/img/portrait.jpg?raw=true);
       border-radius: 50%;
       border: solid 3px #fcc0e7; }
   .menu .nav-item {
