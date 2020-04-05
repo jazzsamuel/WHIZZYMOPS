@@ -290,7 +290,7 @@ main {
 #testimonials {
   display: block;
   height: 100%;
-  background: url("/dist/img/test-bg.jpg") no-repeat center center/cover;
+  background: url(https://github.com/jazzsamuel/WHIZZYMOPS/blob/master/dist/img/test-bg.jpg?raw=true) no-repeat center center/cover;
   padding-top: 100px; }
 
 #testimonials h2 {
@@ -378,7 +378,7 @@ main {
     height: 25vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portrait {
-      background: url(/dist/img/portrait_small.jpg);
+      background: url(https://github.com/jazzsamuel/WHIZZYMOPS/blob/master/dist/img/portrait_small.jpg?raw=true);
       width: 150px;
       height: 150px; }
   .about-info {
